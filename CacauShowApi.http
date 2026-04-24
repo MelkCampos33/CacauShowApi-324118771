@@ -1,0 +1,6 @@
+@CacauShowApi_HostAddress = http://localhost:5160
+
+GET {{CacauShowApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
