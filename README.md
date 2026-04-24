@@ -1,20 +1,6 @@
 # CacauShow API 
 
 
-## 📋 Sumário
-
-- [Sobre o Projeto](#-sobre-o-projeto)
-- [Tecnologias](#-tecnologias)
-- [Arquitetura](#-arquitetura)
-- [Como Rodar](#-como-rodar)
-- [Endpoints](#-endpoints)
-- [Regras de Negócio](#-regras-de-negócio)
-- [Massa de Teste](#-massa-de-teste)
-- [Desafio de Sistemas Distribuídos](#-desafio-de-sistemas-distribuídos)
-- [Pensamento Crítico: Race Conditions](#-pensamento-crítico-race-conditions)
-
----
-
 ## Sobre o Projeto
 
 API RESTful desenvolvida com **ASP.NET Core 8** que simula o controle de qualidade e logística de uma rede de chocolates. O sistema gerencia o ciclo completo: desde a produção de lotes até a venda em franquias, com validações de negócio, controle de capacidade de estoque e relatório regional de vendas.
